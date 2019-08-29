@@ -5,7 +5,7 @@ def square_array(array)
     result = array[counter] ** 2
     puts result
     counter += 1 
-    
+    result
   end
 end
 
